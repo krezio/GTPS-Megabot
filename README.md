@@ -1,11 +1,12 @@
-# GTPS Bot
+# GTPS Megabot
 
-A backup bot for the GTPS game server built with Node.js and Discord.js.
+A  megabot for the GTPS game server built with Node.js and Discord.js.
 
 ## Features
 
 - Automatically backs up game server files at a configurable interval
 - Uploads backups to Discord via embed or HTTP if the file is too large
+- Allows for easy control of your GTPS server
 - Provides stats on the number of players/worlds in backups
 - RESTful HTTP endpoint to download backups
 
