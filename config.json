@@ -1,0 +1,16 @@
+{
+    "prefix": "bot prefix",
+    "gtpsname":"your gtps name",
+    "token": "bot token",
+    "secret_channels": "backups will be done here",
+    "user_id": "gtps owner id",
+    "delay": "backup delay (10 mins minimum)",
+    "world_folder": "Path/to/world_folder",
+    "player": "Path/to/player_folder",
+    "gtps_folder": "Path/to/gtps_folder",
+    "ip":"VPS IP",
+    "status_channel": "status channel id",
+    "role_id": "roleid"
+  
+  }
+  
