@@ -2,7 +2,6 @@ const discord = require("discord.js");
 const client = new discord.Client({
     restRequestTimeout: 120000
 });
-const fs = require("fs");
 const http = require("http");
 const ms = require("ms")
 const data = require("./Data/data.json");
@@ -19,7 +18,7 @@ const {token, prefix} = require ('./config.json');//config.json (start)
 client.config = config;//config.json (end)
 const bcrypt = require("bcrypt");
 const Enmap = require("enmap");
-const { readdirSync } = require('fs');
+const { readdirSync,fs } = require('fs');
 const { join } = require('path');
 client.commands= new Discord.Collection();
 client.commands = new Enmap();//commands folder (start)
