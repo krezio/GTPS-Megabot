@@ -44,7 +44,7 @@ A  megabot for the GTPS game server built with Node.js and Discord.js.
 
 ## Support
 
-Join the GTPS Discord for support: [https://discord.gg/6fTtwXKWdY](https://discord.gg/6fTtwXKWdY)
+Join the GTPS Discord for support: [https://discord.gg/6fTtwXKWdY](https://discord.gg/6fTtwXKWdY) / discord.gg/tread
 
 ## License
 
